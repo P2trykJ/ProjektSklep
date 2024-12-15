@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_orders"
+        android:title="@string/menu_list"
+        android:icon="@android:drawable/ic_menu_agenda" />
+    <item
+        android:id="@+id/menu_save_cart"
+        android:title="@string/save_sett"
+        android:icon="@android:drawable/ic_menu_save" />
+    <item
+        android:id="@+id/menu_author_info"
+        android:title="@string/about_author_menu"
+        android:icon="@android:drawable/ic_menu_info_details" />
+    <item
+        android:id="@+id/menu_share_cart"
+        android:title="@string/share_menu"
+        android:icon="@android:drawable/ic_menu_share" />
+    <item
+        android:id="@+id/menu_send_sms"
+        android:title="@string/sms_send"
+        android:icon="@android:drawable/ic_menu_send" />
+    <item
+        android:id="@+id/menu_language"
+        android:title="@string/lang" />
+
+
+</menu>
